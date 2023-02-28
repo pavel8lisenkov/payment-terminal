@@ -1,0 +1,59 @@
+.form__pay {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: white;
+  width: 100%;
+}
+
+.operator__title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+  user-select: none;
+}
+
+.operator__title img {
+  width: 70px;
+}
+
+input {
+  box-sizing: border-box;
+}
+
+::-webkit-input-placeholder {
+  font-size: 1rem;
+  transform: translateY(-.25rem);
+}
+
+:-moz-placeholder {
+  font-size: 1rem;
+  transform: translateY(-.25rem);
+}
+
+::-moz-placeholder {
+  font-size: 1rem;
+  transform: translateY(-.25rem);
+}
+
+:-ms-input-placeholder {
+  font-size: 1rem;
+  transform: translateY(-.25rem);
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+input[type='number'],
+input[type="number"]:hover,
+input[type="number"]:focus {
+    appearance: none;
+    -moz-appearance: textfield;
+}

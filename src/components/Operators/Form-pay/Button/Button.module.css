@@ -1,0 +1,21 @@
+.button {
+  width: 100%;
+  padding: 13px;
+  border-radius: 8px;
+  background: #00afefd5;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  transition: .2s ease-in-out;
+}
+
+.button:hover {
+  background: #00aeef;
+  -webkit-box-shadow: 0 0 5px #00aeef;
+  -moz-box-shadow: 0 0 5px #00aeef;
+  box-shadow: 0 0 5px #00aeef;
+}
+
+.button:active {
+  transform: scale(0.96);
+}
