@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/payment-terminal/static/css/main.550f8c4c.css",
-    "main.js": "/payment-terminal/static/js/main.f1ef074f.js",
+    "main.css": "/payment-terminal/static/css/main.dfe58f79.css",
+    "main.js": "/payment-terminal/static/js/main.f8b76f63.js",
     "static/js/787.28cb0dcd.chunk.js": "/payment-terminal/static/js/787.28cb0dcd.chunk.js",
     "static/media/Gilroy-Medium.woff2": "/payment-terminal/static/media/Gilroy-Medium.acd4e613de34a826c191.woff2",
     "static/media/Gilroy-Semibold.woff2": "/payment-terminal/static/media/Gilroy-Semibold.7726b19d33f1b7f4135a.woff2",
     "index.html": "/payment-terminal/index.html",
-    "main.550f8c4c.css.map": "/payment-terminal/static/css/main.550f8c4c.css.map",
-    "main.f1ef074f.js.map": "/payment-terminal/static/js/main.f1ef074f.js.map",
+    "main.dfe58f79.css.map": "/payment-terminal/static/css/main.dfe58f79.css.map",
+    "main.f8b76f63.js.map": "/payment-terminal/static/js/main.f8b76f63.js.map",
     "787.28cb0dcd.chunk.js.map": "/payment-terminal/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.550f8c4c.css",
-    "static/js/main.f1ef074f.js"
+    "static/css/main.dfe58f79.css",
+    "static/js/main.f8b76f63.js"
   ]
 }
